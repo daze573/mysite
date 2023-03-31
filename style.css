@@ -121,3 +121,57 @@ main {
   width: 980px;
   margin: 0 auto 90px;
 }
+
+.item-strength {
+  width: 320px;
+  height: auto;
+  text-align: center;
+}
+
+.item-strength i {
+  font-size: 60px;
+}
+
+.item-strength h4 {
+  padding: 10px 0;
+  font-size: 20px;
+  color: #000000;
+}
+
+.strength-2 {
+  margin: 0 10px;
+}
+
+.main-content-3 {
+  width: 1024px;
+  margin: 0 auto 90px;
+}
+
+.profile-img {
+  width: 512px;
+  text-align: center;
+}
+
+.profile-icon {
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.profile-sentence {
+  width: 512px;
+}
+
+.profile-sentence h4 {
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.profile-sentence p {
+  font-size: 16px;
+}
+
+.myskill {
+  padding-top: 20px;
+}
