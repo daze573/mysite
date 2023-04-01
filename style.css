@@ -27,7 +27,7 @@ header {
   height: 60px;
 }
 
-.nav-list {
+.nav-list a {
   font-size: 16px;
   color: #FAFAFA;
 }
@@ -221,6 +221,10 @@ main {
 .content-1 p {
   font-size: 16px;
   padding-bottom: 20px;
+}
+
+.content-1 a {
+  color: #000000;
 }
 
 .icon {
