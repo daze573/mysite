@@ -310,6 +310,7 @@ footer {
     background-image: url(img/code.png);
     max-width: 100%;
     width: 100%;
+    margin: 0 auto;
   }
 
   .mainvisual-content {
@@ -333,7 +334,8 @@ footer {
   .main-content-1 {
     max-width: 100%;
     width: 90%;
-    margin: 0 auto 90px;
+    margin: 0 auto;
+    padding: 90px 0;
   }
 
   .main-item-sentence {
@@ -364,7 +366,7 @@ footer {
   .main-content-2 {
     max-width: 100%;
     width: 90%;
-    margin: 0 auto 90px;
+    margin: 90px auto;
   }
 
   .strength-1 p,
@@ -381,7 +383,8 @@ footer {
   .main-content-3 {
     max-width: 100%;
     width: 90%;
-    margin: 0 auto 90px;
+    margin: 0 auto;
+    padding: 90px 0;
   }
 
   .profile-icon {
@@ -397,7 +400,7 @@ footer {
   .main-content-4 {
     max-width: 100%;
     width: 90%;
-    margin: 0 auto 90px;
+    margin: 90px auto;
   }
 
   .text,
